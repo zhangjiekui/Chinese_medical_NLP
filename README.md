@@ -1,3 +1,9 @@
+医疗NLP相关数据集整理
+https://cloud.tencent.com/developer/article/1701191
+
+
+
+
 # Chinese_medical_NLP
 
 医疗NLP领域（主要关注中文）   评测数据集 与 论文等相关资源。
